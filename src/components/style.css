@@ -1,0 +1,21 @@
+.home-button{
+    border: none;
+    margin-left: 20px;
+    height: 38px;
+    background-color: cornflowerblue;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+}
+
+
+.form-bttn{
+    display: block;
+    margin: 10px auto;
+}
+
+.cancel-btn{
+    border-color: gray;
+    background-color: gray;
+    margin-top: 20px;
+}
